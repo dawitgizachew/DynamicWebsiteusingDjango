@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DynamicWebsiteusingDjango.iml" filepath="$PROJECT_DIR$/.idea/DynamicWebsiteusingDjango.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CRUD_op.iml" filepath="$PROJECT_DIR$/.idea/CRUD_op.iml" />
     </modules>
   </component>
 </project>
